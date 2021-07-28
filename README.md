@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @slw1jw
-- 👀 I’m interested in Linux, Linux administration, Databases, and Web development
+- 👀 I’m interested in Linux, Linux administration, Arch Linux, Tiling Window Managers, Databases, and Web development
 - 🌱 I’m currently learning Python, Go, Web development
 - 💞️ I’m looking to collaborate on ... nothing at this time
 - 📫 How to reach me ... slw1jw@gmail.com
